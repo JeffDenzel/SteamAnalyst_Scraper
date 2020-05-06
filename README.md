@@ -7,8 +7,8 @@ This repository contains a Jupyter Notebook with a browser based scraper through
 
 <h3> Pre-requisites<h3>
 
-To make use of the tool I recommend: <br>
-Anaconda (https://www.anaconda.com/products/individual) which, as a default comes with Jupyter Notebook.<br>
+To make use of the tool I recommend: <br><br>
+Anaconda (https://www.anaconda.com/products/individual) which, as a default comes with Jupyter Notebook.<br><br>
 Chromedriver (https://chromedriver.chromium.org/) as a browser-based scraper Chromedriver is required to open SteamAnalyst.
 
 <h3> Output <h3>  
